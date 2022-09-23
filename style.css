@@ -201,7 +201,7 @@ body {
 
 .btn--char:hover {
   /* background-color: var(--color-primary-dark-2); */
-  box-shadow: inset 20rem 0 0 0 var(--color-secondary);
+  box-shadow: inset 30rem 0 0 0 var(--color-secondary);
   color: var(--color-accent);
 }
 
